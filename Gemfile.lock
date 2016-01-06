@@ -136,7 +136,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  capybara (~> 2.1.0)
+  capybara
   coffee-rails (~> 4.0.0)
   jbuilder (~> 2.0)
   jquery-rails
