@@ -31,4 +31,12 @@ div.flash.error {
 div.flash.notice {
 	border: 2px solid blue;
 	color: blue;
+}
+
+nav {
+	position: relative;
 }	
+
+nav h1, nav ul, nav li {
+	display: inline-block;
+}
